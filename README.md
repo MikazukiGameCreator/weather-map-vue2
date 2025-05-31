@@ -2,6 +2,11 @@
 
 クリックした地点の雨量予報をグラフで表示するWebアプリケーション
 
+## デモ
+👉 [アプリを試す](https://MikazukiGameCreator.github.io/weather-map-vue2/)
+
+地図上の任意の場所をクリックすると、その地点の48時間分の雨量予報をグラフで確認できます。
+
 ## 機能
 - OpenStreetMapを使用した地図表示
 - クリックした地点の雨量予報を取得（Open-Meteo APIを使用）
